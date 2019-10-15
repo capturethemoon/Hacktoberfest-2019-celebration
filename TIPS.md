@@ -11,5 +11,7 @@ I [Swayam Samyak Debasis](https://github.com/Swayamsvk) suggests you to be patie
 
 I [Meghna]() would recomment you to join the dev community, attend meetups in order to meet like-minded people who'll keep you inspired and motivating.
 
+I [capturethemoon](https://github.com/capturethemoon) suggest that you try to do a little bit of coding each day, in order to maintain and improve your skillset.
+
 
 
